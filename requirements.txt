@@ -1,5 +1,5 @@
-yfinance==0.2.36
-plotly==5.18.0
-pandas==2.1.0
-streamlit==1.28.0
-altair==4.2.2
+yfinance
+plotly
+pandas
+streamlit
+altair>=4.0,<5.0
